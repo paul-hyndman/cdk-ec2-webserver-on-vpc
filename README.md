@@ -3,7 +3,7 @@
 #  - VPC
 #  - EC2
 #  - S3
-# User data to launch Apache webserver with custom index.html page is loaded from S3 bucket
+# User data launches Apache webserver with custom index.html page which is loaded from an S3 bucket
 
 Requirements:
  - A command shell such as Git Bash
